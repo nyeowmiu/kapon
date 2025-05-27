@@ -66,4 +66,6 @@ The decision to spay or neuter your pet is an act of profound responsibility and
 
 Consult your veterinarian to discuss the best time and approach for your pet's spay or neuter surgery. By making this choice, you're truly giving your furry friend the gift of a healthier, happier life, and contributing to a more compassionate world for all animals.
 
+Next: [Where to Spay or Neuter Your Pets]({{ site.baseurl }}/where-to/)
+
 Return to the [home page]({{ site.baseurl }}/).
