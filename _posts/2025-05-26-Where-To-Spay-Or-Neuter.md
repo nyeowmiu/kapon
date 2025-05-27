@@ -62,9 +62,12 @@ Here's a more detailed breakdown:
 > **Overweight:** additional fee based on weight exceeding 35kg for females and 20kg for males
 
 ## Some private veterinary clinics also offer low cost kapon ranging from 300 to 1000 pesos 
+You might need to scour Facebook for this as some provide low cost kapon on limited period. You can also check [Google Maps for the vet clinics near you](https://www.google.com/maps/search/vet+clinics+near+me)
 
 <div class="info-box">
 !!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
+
+Also, the owner of this page is not affiliated or connected to any of the above clinics or organizations. Please do your due diligence when selecting the clinic. 
 </div>
 
 Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
