@@ -99,3 +99,5 @@ Your desire to help stray animals is admirable and with a little more mindfulnes
 Responsible feeding helps maintain a cleaner environment, reduces nuisance for the community, and most importantly, protects the health and safety of the animals you're trying to help. It's about ensuring that your compassion truly makes a positive, lasting difference, moving us closer to a future where every animal has a safe home and a full belly, without inadvertently causing more problems like littering or endangering them with improper food. 
 
 Let's feed with wisdom, care, and a vision for a better tomorrow for all creatures great and small.
+
+Return to the [home page](/).
