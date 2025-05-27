@@ -37,7 +37,7 @@ While feeding, take a moment to observe the animals. Are they limping? Do they h
 ## Have them Spayed or Neutered 
 Along with monitoring their health, please have them spayed or neutered. Or inquire about Trap-Neuter-Vaccinate-Return (TNVR) for your area. 
 
-To learn more, please read: [Where to Spay or Neuter](/where-to/).
+To learn more, please read: [Where to Spay or Neuter]({{ site.baseurl }}/where-to/).
 
 
 ## Tailoring the Menu 
