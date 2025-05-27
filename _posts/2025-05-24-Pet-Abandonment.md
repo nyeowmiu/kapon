@@ -39,8 +39,6 @@ However, recognizing the need for stronger penalties and broader coverage, **Rep
 > #### Ineligibility to own animals: 
 > In cases of repeated offenses, the court may also order the permanent disqualification of the offender from owning any animal.
 
-
-
 **These laws are not merely symbolic**; they are a testament to our collective responsibility to safeguard the welfare of all living creatures, especially those dependent on us. 
 
 **When we choose to bring a pet into our lives, we enter into a lifelong commitment.** They are not disposable objects, but sentient beings capable of feeling pain, fear, and profound sadness.
@@ -50,5 +48,7 @@ If circumstances arise where keeping a pet becomes genuinely impossible, the res
 Let us honor the unconditional love our pets bestow upon us. Let us remember that while they may be just a part of our lives, to them, we are their whole life. 
 
 **Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime.** 
+
+Next: [Benefits of Spaying and Neutering Your Pets]({{ site.baseurl }}/kapon-benefits/)
 
 Return to the [home page]({{ site.baseurl }}/).
