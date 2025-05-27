@@ -13,8 +13,12 @@ title: Kapon Hindi Tapon
     <p class="post-meta">
       {{ post.date | date: "%B %d, %Y" }}
     </p>
-    {{ post.excerpt | markdownify }} { } ``Displays a snippet of the post
+    
+    [comment]: # (Displays a snippet of the post)
+    {{ post.excerpt | markdownify }} 
     <a href="{{ post.url | relative_url }}">Read More &rarr;</a>
   </div>
-  <hr> {} ``Optional: Adds a horizontal line between posts
+  
+  [comment]: # (Optional: Adds a horizontal line between posts)
+  <hr> 
 {% endfor %}
