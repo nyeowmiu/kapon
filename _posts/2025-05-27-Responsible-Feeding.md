@@ -108,4 +108,6 @@ It's about ensuring that your compassion truly makes a positive, lasting differe
 
 **Let's feed with wisdom, care, and a vision for a better tomorrow for all creatures great and small.**
 
+Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
+
 Return to the [home page]({{ site.baseurl }}/).
