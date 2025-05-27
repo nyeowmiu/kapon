@@ -8,7 +8,8 @@ show_view_on_github: false
 github: [metadata_repo: false] # Sometimes this can influence it too
 
 title: '#KaponHindiTapon'
-description: bawat buhay ay mahalaga 
-spay or neuter your pets
+description: |
+  bawat buhay ay mahalaga 
+  spay or neuter your pets
 #(Every life is precious.) 
 #This site champions spay and neuter programs as a key solution, while raising awareness to stop the heartbreaking cycle of pet abandonment and animal cruelty. Find resources and take action.
