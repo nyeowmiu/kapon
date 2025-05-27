@@ -5,7 +5,9 @@ featured_image: /assets/images/spay.jpg
 categories: [kapon] # Optional: For tagging posts
 tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Optional: More specific keywords
 ---
-As responsible pet parents, we all want what's best for our beloved furry companions. One of the most impactful decisions you can make for their health, happiness, and for the wider community is to have them spayed or neutered, a procedure often referred to as "kapon" in the Philippines. Beyond preventing unwanted litters, this routine surgery offers a multitude of benefits that can lead to a longer, healthier, and more harmonious life for your pet.
+As responsible pet parents, we all want what's best for our beloved furry companions. 
+
+One of the most impactful decisions you can make for their health, happiness, and for the wider community is to have them spayed or neutered, a procedure often referred to as "kapon" in the Philippines. Beyond preventing unwanted litters, this routine surgery offers a multitude of benefits that can lead to a longer, healthier, and more harmonious life for your pet.
 
 <div class="info-box">
 "Kapon", which refers to spaying or neutering, offers several benefits for pets. 
