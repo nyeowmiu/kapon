@@ -6,9 +6,7 @@ categories: [abandonment] # Optional: For tagging posts
 tags: [pet abandonment, animal abuse, animal cruelty, RA 8485, RA 10631] # Optional: More specific keywords
 ---
 <img src="{{'/assets/images/Cats-Abandoned-in-Arezzo.png'|relative_url}}" alt="Cat and Kittens Abandoned">
-There's a unique bond shared between a human and their pet. It's a connection built on unwavering loyalty, boundless affection, and a purity of love that is rarely found elsewhere. A pet will never abandon their owner. Through thick and thin, through laughter and tears, they remain by our side, offering comfort, companionship, and a silent understanding that speaks volumes. Their love is truly unconditional, a constant in a world of change.
-
-Consider the eager wag of a tail at the sound of your footsteps, the soft purr against your chest when you're feeling low, the gentle nuzzle against your hand as if to say, "I'm here for you." These are not mere gestures; they are expressions of a deep, abiding devotion that our animal companions offer freely and without reservation. They trust us implicitly, viewing us as their world, their protectors, and their providers.
+There's a unique bond shared between a human and their pet. It's a connection built on unwavering loyalty, boundless affection, and a purity of love that is rarely found elsewhere. Consider the eager wag of a tail at the sound of your footsteps, the soft purr against your chest when you're feeling low, the gentle nuzzle against your hand as if to say, "I'm here for you." These are not mere gestures; they are expressions of a deep, abiding devotion that our animal companions offer freely and without reservation. They trust us implicitly, viewing us as their world, their protectors, and their providers.
 
 Which makes the act of pet abandonment all the more heartbreaking, and frankly, unconscionable. To take a creature that has given you their entire heart and then cast them aside – whether on a busy street, in an unfamiliar neighborhood, or at a desolate shelter – is a profound betrayal of that trust. It’s an act that leaves them confused, terrified, and utterly alone, struggling to survive in a world they are ill-equipped to navigate without human care.
 
@@ -34,6 +32,9 @@ However, recognizing the need for stronger penalties and broader coverage, **Rep
 
 > #### Ineligibility to own animals: 
 > In cases of repeated offenses, the court may also order the permanent disqualification of the offender from owning any animal.
+
+
+<img src="{{'/assets/images/PAWS.png'|relative_url}}" alt="Image from PAWS: Animal Rights Awareness Week">
 
 These laws are not merely symbolic; they are a testament to our collective responsibility to safeguard the welfare of all living creatures, especially those dependent on us. When we choose to bring a pet into our lives, we enter into a lifelong commitment. They are not disposable objects, but sentient beings capable of feeling pain, fear, and profound sadness.
 
