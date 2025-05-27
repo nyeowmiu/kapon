@@ -65,3 +65,5 @@ Beyond your own home, spaying and neutering benefit the entire community.
 The decision to spay or neuter your pet is an act of profound responsibility and care. It's a relatively safe and common surgical procedure, and the long-term benefits for your pet's health, behavior, and the community far outweigh any temporary discomfort. 
 
 Consult your veterinarian to discuss the best time and approach for your pet's spay or neuter surgery. By making this choice, you're truly giving your furry friend the gift of a healthier, happier life, and contributing to a more compassionate world for all animals.
+
+Return to the [home page]({{ site.baseurl }}/).
