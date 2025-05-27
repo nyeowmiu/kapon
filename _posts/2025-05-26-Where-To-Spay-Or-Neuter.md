@@ -68,10 +68,8 @@ Here's a more detailed breakdown:
 You might need to scour Facebook for this as some provide low cost kapon on a limited period. You can also check [Google Maps for the vet clinics near you](https://www.google.com/maps/search/vet+clinics+near+me)
 
 <div class="info-box">
-Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
-<p>
-Another friendly reminder: We're not associated with any of the clinics or organizations shared here. We encourage you to conduct your own research and due diligence before engaging with them.
-</p></div>
+Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics. Also, we're not associated with any of the clinics or organizations shared here. We encourage you to conduct your own research and due diligence before engaging with them.
+</div>
 
 Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
 
