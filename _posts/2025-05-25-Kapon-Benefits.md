@@ -69,3 +69,7 @@ Consult your veterinarian to discuss the best time and approach for your pet's s
 Next: [Where to Spay or Neuter Your Pets]({{ site.baseurl }}/where-to/)
 
 Return to the [home page]({{ site.baseurl }}/).
+
+<div class="info-box">
+Disclaimer: The material presented on this page is intended solely for informational purposes. Please do your own research before making any decisions.
+</div>
