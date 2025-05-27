@@ -1,6 +1,6 @@
 ---
 title: "7 Benefits of Spaying or Neutering (Kapon) Your Pets"
-date: 2025-05-27
+date: 2025-05-26
 ---
 "Kapon," which refers to spaying or neutering, offers several benefits for pets. It helps prevent unwanted pregnancies, reduces the risk of certain cancers, and can lead to behavioral improvements. Additionally, kapon contributes to pet population control and can help reduce roaming, spraying, and aggression in some cases. 
 
