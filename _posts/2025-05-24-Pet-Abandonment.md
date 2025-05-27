@@ -21,17 +21,17 @@ However, recognizing the need for stronger penalties and broader coverage, **Rep
 
 **Under Republic Act No. 8485, as amended by Republic Act No. 10631, acts of pet abandonment—including leaving pets behind when moving or discarding litters—can lead to serious legal repercussions, including:**
 
-#### Imprisonment: 
-Offenders can face imprisonment ranging from six (6) months to three (3) years.
+> #### Imprisonment: 
+> Offenders can face imprisonment ranging from six (6) months to three (3) years.
 
-#### Fines: 
-Substantial fines, ranging from Ten Thousand Pesos (P10,000.00) to Two Hundred Fifty Thousand Pesos (P250,000.00), depending on the severity of the cruelty and whether the animal dies.
+> #### Fines: 
+> Substantial fines, ranging from Ten Thousand Pesos (P10,000.00) to Two Hundred Fifty Thousand Pesos (P250,000.00), depending on the severity of the cruelty and whether the animal dies.
 
-#### Ineligibility to own animals: 
-In cases of repeated offenses, the court may also order the permanent disqualification of the offender from owning any animal.
+> #### Ineligibility to own animals: 
+> In cases of repeated offenses, the court may also order the permanent disqualification of the offender from owning any animal.
 
 These laws are not merely symbolic; they are a testament to our collective responsibility to safeguard the welfare of all living creatures, especially those dependent on us. When we choose to bring a pet into our lives, we enter into a lifelong commitment. They are not disposable objects, but sentient beings capable of feeling pain, fear, and profound sadness.
 
 If circumstances arise where keeping a pet becomes genuinely impossible, the responsible and humane course of action is never abandonment. Instead, explore options like rehoming through reputable animal welfare organizations, seeking help from family or friends, or responsibly surrendering the animal to a legitimate shelter that can find them a new, loving home.
 
-Let us honor the unconditional love our pets bestow upon us. Let us be their voice and their protector. Let us remember that while they may be just a part of our lives, to them, we are their whole life. Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime. Let's uphold our commitment to animal welfare and ensure that every wagging tail and purring friend knows only kindness and security.
+Let us honor the unconditional love our pets bestow upon us. Let us remember that while they may be just a part of our lives, to them, we are their whole life. Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime. Let's uphold our commitment to animal welfare and ensure that every wagging tail and purring friend knows only kindness and security.
