@@ -44,10 +44,14 @@ Here's a more detailed breakdown:
 
 > Mixed/Purebred: May incur an additional fee of P1,000.
 
-*Additional Fees Might Incur for Other Factors Like:*
+
+*--Additional Fees Might Incur for Factors Like:--*
 > **Pregnant Animals:** e.g. P500 for pregnant cats, P1,000 for pregnant dogs
+> 
 > **Undescended Testicles:** e.g. P300-P500 for male cats, P500-P1000 for male dogs
+> 
 > **Pyometra:** e.g. P500 for female cats, P1,000 for female dogs
+> 
 > **Overweight:** additional fee based on weight exceeding 35kg for females and 20kg for males
 
 ## Some clinis also offer low cost kapon ranging from 300 to 1000 pesos 
@@ -69,7 +73,7 @@ Facebook:
 Typical Cost: 
 
 <div class="info-box">
-Note: above prices are average price ranges only and not an indicative or officially prescribed prices. Please check with the specific clinics for exact prices. 
+Note: Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
 </div>
 
 
