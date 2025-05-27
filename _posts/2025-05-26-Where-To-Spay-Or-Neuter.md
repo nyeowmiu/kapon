@@ -9,7 +9,7 @@ tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Opti
 # For free kapon, checkout the city or town veterinary office 
 Here in Pasig, the Veterinary Services Department of Pasig City, not only provides free kapon but residents can also avail of free micro-chipping and anti-rabies vaccination for their pets. 
 
-<img src="{{'/assets/images/PasigCityVet.png'|relative_url}}" alt="A cat with e-collar after getting spayed">
+<img src="{{'/assets/images/PasigCityVet.png'|relative_url}}" alt="Facebook Page of Veterinary Services Department of Pasig City">
 
 Follow their facebook to find out more, here's their facebook page: <a href="https://www.facebook.com/VetServicesPasig/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/VetServicesPasig/</a>
 
