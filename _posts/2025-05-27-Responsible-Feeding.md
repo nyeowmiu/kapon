@@ -64,8 +64,8 @@ Alongside food, access to fresh, clean water is vital. A shallow bowl of water c
 
 # What NOT to Feed Cats (and why!)
 
-### Bones, Especially Fish Bones 
-This is critically important. Bones, especially small, brittle fish bones, can splinter and cause severe internal injuries, choking, or blockages in a cat's digestive system. Never give bones to cats.
+### Bones, Especially Small Bones 
+This is critically important. Bones, especially small, brittle fish and chicken bones, can splinter and cause severe internal injuries, choking, or blockages in a cat's digestive system. Never give bones to cats.
 
 <img src="{{'/assets/images/irresponsible-feeding-1.png'|relative_url}}" alt="spoilt food with fish bones">
 
@@ -92,12 +92,20 @@ These can contain harmful bacteria like Salmonella or E. coli, which can make ca
 While a cat might eat dog food in a pinch, it lacks the essential nutrients cats need, particularly taurine, which is vital for their heart health and vision. Long-term feeding of dog food can lead to serious health problems.
 
 # From Well-Intentioned Feeder to Responsible Advocate
-Your desire to help stray animals is admirable and with a little more mindfulness, you can transform your well-intentioned acts into truly responsible contributions. By embracing consistent, clean feeding practices and providing appropriate nutrition, you’re not just offering a meal: YOU ARE becoming a vital part of the solution.
+Your desire to help stray animals is admirable and with a little more mindfulness, you can transform your well-intentioned acts into truly responsible contributions. 
+
+By embracing consistent, clean feeding practices and providing appropriate nutrition, you’re not just offering a meal: **YOU ARE becoming a vital part of the solution.**
 
 
 ## Feeding with Heart and Hands: Becoming a True Friend to Our Stray Animals
-Responsible feeding helps maintain a cleaner environment, reduces nuisance for the community, and most importantly, protects the health and safety of the animals you're trying to help. It's about ensuring that your compassion truly makes a positive, lasting difference, moving us closer to a future where every animal has a safe home and a full belly, without inadvertently causing more problems like littering or endangering them with improper food. 
+Responsible feeding:
 
-Let's feed with wisdom, care, and a vision for a better tomorrow for all creatures great and small.
+- helps maintain a cleaner environment,
+- reduces nuisance for the community, and most importantly,
+- protects the health and safety of the animals you're trying to help.
+
+It's about ensuring that your compassion truly makes a positive, lasting difference, moving us closer to a future where every animal has a safe home and a full belly, without inadvertently causing more problems like littering or endangering them with improper food. 
+
+**Let's feed with wisdom, care, and a vision for a better tomorrow for all creatures great and small.**
 
 Return to the [home page]({{ site.baseurl }}/).
