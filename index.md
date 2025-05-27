@@ -17,5 +17,5 @@ title: Kapon Hindi Tapon
      {{ post.excerpt | markdownify }} 
     <a href="{{ post.url | relative_url }}">Read More &rarr;</a>
   </div>
-  <hr> <!-- Optional: Adds a horizontal line between posts -->
+  <!-- <hr> Optional: Adds a horizontal line between posts -->
 {% endfor %}
