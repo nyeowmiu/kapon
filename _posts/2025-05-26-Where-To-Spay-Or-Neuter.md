@@ -79,8 +79,8 @@ Facebook:
 Typical Cost: 
 
 <div class="info-box">
-!!!Disclaimer: Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
+!!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
 </div>
 
-
+Return to the [home page]({{ site.baseurl }}/)
 
