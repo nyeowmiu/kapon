@@ -2,6 +2,7 @@
 title: "Where to Spay or Neuter Your Pets"
 date: 2025-05-26
 featured_image: /assets/images/ppbcc-spay-neuter.jpg
+permalink: /where-to/ # The new desired URL
 categories: [kapon] # Optional: For tagging posts
 tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Optional: More specific keywords
 ---
