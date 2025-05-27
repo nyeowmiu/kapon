@@ -62,22 +62,6 @@ Here's a more detailed breakdown:
 
 ## Some clinis also offer low cost kapon ranging from 300 to 1000 pesos 
 
-1. Clinic 1 
-Facebook: 
-Typical Cost: 
-
-2. Clinic 2 
-Facebook: 
-Typical Cost: 
-
-3. Clinic 3 
-Facebook: 
-Typical Cost: 
-
-4. Clinic 4 
-Facebook: 
-Typical Cost: 
-
 <div class="info-box">
 !!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
 </div>
