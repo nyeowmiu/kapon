@@ -40,8 +40,8 @@ However, recognizing the need for stronger penalties and broader coverage, **Rep
 
 
 
-These laws are not merely symbolic; they are a testament to our collective responsibility to safeguard the welfare of all living creatures, especially those dependent on us. When we choose to bring a pet into our lives, we enter into a lifelong commitment. They are not disposable objects, but sentient beings capable of feeling pain, fear, and profound sadness.
+**These laws are not merely symbolic**; they are a testament to our collective responsibility to safeguard the welfare of all living creatures, especially those dependent on us. **When we choose to bring a pet into our lives, we enter into a lifelong commitment.** They are not disposable objects, but sentient beings capable of feeling pain, fear, and profound sadness.
 
 If circumstances arise where keeping a pet becomes genuinely impossible, the responsible and humane course of action is never abandonment. Instead, explore options like rehoming through reputable animal welfare organizations, seeking help from family or friends, or responsibly surrendering the animal to a legitimate shelter that can find them a new, loving home.
 
-Let us honor the unconditional love our pets bestow upon us. Let us remember that while they may be just a part of our lives, to them, we are their whole life. Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime. Let's uphold our commitment to animal welfare and ensure that every wagging tail and purring friend knows only kindness and security.
+Let us honor the unconditional love our pets bestow upon us. Let us remember that while they may be just a part of our lives, to them, we are their whole life. **Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime.** 
