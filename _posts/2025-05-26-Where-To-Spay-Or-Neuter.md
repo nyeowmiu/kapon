@@ -5,6 +5,11 @@ featured_image: /assets/images/ppbcc-spay-neuter.jpg
 categories: [kapon] # Optional: For tagging posts
 tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Optional: More specific keywords
 ---
+Thinking about spaying or neutering your beloved pet but unsure where to start? 
+
+Many pet parents share concerns about the cost or simply don't know where to avail of these vital services. The good news is, finding a trusted clinic in Metro Manila is easier than you think! 
+
+Beyond private veterinary clinics, many **Local Government Units (LGUs)**  offer free or heavily subsidized "kapon" programs. 
 
 # For free kapon, checkout the city or town veterinary office 
 Here in Pasig, the Veterinary Services Department of Pasig City, not only provides free kapon but residents can also avail of free micro-chipping and anti-rabies vaccination for their pets. 
