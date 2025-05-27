@@ -29,20 +29,17 @@ Opt for a spot that is away from heavy foot traffic, busy roads, and areas where
 Always, always clean up any leftover food, containers, and debris after the animals have eaten. This is crucial for hygiene, preventing pests, and maintaining good relations with your neighbors.
 
 ### Use Proper Containers 
-Don't just dump food on the ground. Use disposable plates or containers that you can easily pick up afterward. This prevents littering and keeps the feeding area clean.
+**Don't just dump food on the ground.** Use disposable plates or containers that you can easily pick up afterward. This prevents littering and keeps the feeding area clean.
 
 ## Monitor for Health Issues 
 While feeding, take a moment to observe the animals. Are they limping? Do they have visible wounds or skin conditions? Noticing these can alert you to animals in need of more extensive help.
 
-## Have them Spayed or Neutered 
+## Have Them Spayed or Neutered 
 Along with monitoring their health, please have them spayed or neutered. Or inquire about Trap-Neuter-Vaccinate-Return (TNVR) for your area. 
 
 To learn more, please read: [Where to Spay or Neuter]({{ site.baseurl }}/where-to/).
 
-
-## Tailoring the Menu 
-What to Feed Your Feline Friends (and What to Avoid!)
-
+## Tailoring their Menu 
 When it comes to our feline friends, what you feed them is just as important as how you feed them. Cats have specific dietary needs, and improper food can do more harm than good.
 
 # What to Feed Cats
