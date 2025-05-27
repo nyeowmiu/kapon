@@ -23,7 +23,35 @@ Follow their facebook to find out more, here's their facebook page: <a href="htt
 </div>
 -->
 
-Some clinis also offer low cost kapon ranging from 300 to 1000 pesos 
+# Private Clinics 
+The cost of spay and neuter procedures (kapon) in private veterinary clinics in Pasig can vary depending on factors like the animal's breed, size, and any additional complications. 
+
+Generally, as of 2025, expect to pay between P700 to P3,500 for a cat and P1,000 to P5,000 for a dog. 
+
+Here's a more detailed breakdown:
+
+**Cat:**
+> Puspin Female: P1,000
+> 
+> Puspin Male: P700
+>
+> Mixed/Purebred: May incur an additional fee of P500.
+
+**Dog:**
+> Aspin Female: P1,500 (up to 15kg), P2,000 (16-20kg), P2,500 (21-24kg), P5,000 (25-35kg)
+
+>Aspin Male: P1,000 (up to 15kg), P1,500 (16-20kg)
+
+> Mixed/Purebred: May incur an additional fee of P1,000.
+
+*Additional Fees Might Incur for Other Factors Like:*
+**Pregnant Animals:** e.g. P500 for pregnant cats, P1,000 for pregnant dogs
+**Undescended Testicles:** e.g. P300-P500 for male cats, P500-P1000 for male dogs
+**Pyometra:** e.g. P500 for female cats, P1,000 for female dogs
+**Overweight:** additional fee based on weight exceeding 35kg for females and 20kg for males
+
+## Some clinis also offer low cost kapon ranging from 300 to 1000 pesos 
+
 1. Clinic 1 
 Facebook: 
 Typical Cost: 
