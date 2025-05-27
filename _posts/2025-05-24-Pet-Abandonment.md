@@ -14,7 +14,7 @@ Which makes the act of pet abandonment all the more heartbreaking, and frankly, 
 
 This isn't just a moral failing; **pet abandonment is a direct form of animal abuse.** It subjects animals to immense suffering, starvation, thirst, exposure to harsh elements, disease, injury from vehicles, and the constant fear of the unknown. It transforms their world from one of security and love into one of perilous survival.
 
-![Cat and Kittens Abandoned](**/assets/images/Cats-Abandoned-in-Arezzo.png**)
+![Cat and Kittens Abandoned](/assets/images/Cats-Abandoned-in-Arezzo.png)
 
 This betrayal manifests in various devastating ways. We see it when families pack their bags for a **new home, leaving behind a confused dog or cat** tied to a post or simply shut out of the gate, as if their lifelong companion were just an old piece of furniture. Or perhaps even more chilling, the act of **throwing away newborn litters of kittens or puppies** — helpless, fragile lives discarded like trash, separated from their mother's warmth and sustenance. These acts are not merely neglect; they are calculated decisions that condemn innocent lives to suffering and often, to a tragic end.
 
