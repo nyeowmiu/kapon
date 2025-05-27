@@ -7,7 +7,7 @@ tags: [pet abandonment, animal abuse, animal cruelty, RA 8485, RA 10631] # Optio
 ---
 There's a unique bond shared between a human and their pet. It's a connection built on unwavering loyalty, boundless affection, and a purity of love that is rarely found elsewhere. 
 
-Consider the eager wag of a tail at the sound of your footsteps, the soft purr against your chest when you're feeling low, or the gentle nuzzle against your hand as if to say, "I'm here for you." These are are expressions of a deep, abiding devotion that our animal companions offer freely and without reservation. They trust us implicitly, viewing us as their world, their protectors, and their providers.
+Consider the eager wag of a tail at the sound of your footsteps, the soft purr against your chest when you're feeling low, or the gentle nuzzle against your hand as if to say, "I'm here for you." These are expressions of a deep, abiding devotion that our animal companions offer freely and without reservation. They trust us implicitly, viewing us as their world, their protectors, and their providers.
 
 Which makes the act of pet abandonment all the more heartbreaking, and frankly, unconscionable. A profound betrayal of trust. It’s an act that leaves them confused, terrified, and utterly alone, struggling to survive in a world they are ill-equipped to navigate without human care.
 
@@ -27,7 +27,7 @@ Our nation recognizes the importance of protecting animal welfare through robust
 
 However, recognizing the need for stronger penalties and broader coverage, **Republic Act No. 8485 was significantly amended by Republic Act No. 10631 in 2013.** This amendment increased the penalties for animal cruelty, neglect, and abandonment, making the consequences for such acts much more severe.
 
-**Under Republic Act No. 8485, as amended by Republic Act No. 10631, acts of pet abandonment—including leaving pets behind when moving or discarding litters—can lead to serious legal repercussions, including:**
+**Under Republic Act No. 8485, as amended by Republic Act No. 10631, acts of animal abuse including pet abandonment e.g. leaving pets behind when moving or discarding litters—can lead to serious legal repercussions,**
 
 > #### Imprisonment: 
 > Offenders can face imprisonment ranging from six (6) months to three (3) years.
