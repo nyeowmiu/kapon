@@ -66,6 +66,6 @@ Here's a more detailed breakdown:
 !!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
 </div>
 
-Return to the [home page]({{ site.baseurl }}/)
+Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
 
-Next:[Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
+Return to the [home page]({{ site.baseurl }}/)
