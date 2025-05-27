@@ -95,3 +95,21 @@ img {
         margin-bottom: 15px; /* Add space below image when stacked */
     }
 }
+
+/* Style for the info box */
+.info-box {
+    background-color: #f0f8ff; /* Light blue background (AliceBlue) */
+    border: 1px solid #cce5ff; /* Light blue border */
+    border-left: 5px solid #007bff; /* Thicker left border for emphasis */
+    padding: 15px 20px; /* Space inside the box */
+    margin: 25px 0; /* Space above and below the box */
+    border-radius: 5px; /* Slightly rounded corners */
+    font-family: sans-serif; /* You can specify a font here if needed */
+    color: #333; /* Dark gray text color for readability */
+    line-height: 1.6; /* Spacing between lines of text */
+}
+
+/* Optional: Style for bold text inside the box (if you use it) */
+.info-box strong {
+    color: #0056b3; /* Darker blue for bold text inside the box */
+}
