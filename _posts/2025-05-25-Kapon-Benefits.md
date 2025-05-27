@@ -2,6 +2,7 @@
 title: "7 Benefits of Spaying or Neutering Your Pets"
 date: 2025-05-25
 featured_image: /assets/images/spay.jpg
+permalink: /kapon-benefits/ # The new desired URL
 categories: [kapon] # Optional: For tagging posts
 tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Optional: More specific keywords
 ---
