@@ -26,7 +26,7 @@ If you start feeding, try to do so regularly and at the same location. This help
 Opt for a spot that is away from heavy foot traffic, busy roads, and areas where the food might cause a nuisance or attract pests to residential properties. Under a bush in a quiet park, or a less-traveled alley, can be good choices.
 
 ## Clean Up Thoroughly!!! 
-Always, always clean up any leftover food, containers, and debris after the animals have eaten. This is crucial for hygiene, preventing pests, and maintaining good relations with your neighbors.
+**Always, always clean up any leftover food, containers, and debris after the animals have eaten.** This is crucial for hygiene, preventing pests, and maintaining good relations with your neighbors.
 
 ### Use Proper Containers 
 **Don't just dump food on the ground.** Use disposable plates or containers that you can easily pick up afterward. This prevents littering and keeps the feeding area clean.
@@ -40,7 +40,7 @@ Along with monitoring their health, please have them spayed or neutered. Or inqu
 To learn more, please read: [Where to Spay or Neuter]({{ site.baseurl }}/where-to/).
 
 ## Tailoring their Menu 
-When it comes to our feline friends, what you feed them is just as important as how you feed them. Cats have specific dietary needs, and improper food can do more harm than good.
+When it comes to our feline friends, what you feed them is just as important as how you feed them. Cats have specific dietary needs and improper food can do more harm than good.
 
 # What to Feed Cats
 
