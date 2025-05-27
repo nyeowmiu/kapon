@@ -1,4 +1,4 @@
 ---
-title: TITLE #Kapon Hindi Tapon
+title: Kapon Hindi Tapon
 ---
 
