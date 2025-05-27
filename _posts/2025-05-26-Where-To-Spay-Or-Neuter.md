@@ -12,10 +12,11 @@ Many pet parents share concerns about the cost or simply don't know where to ava
 
 Beyond private veterinary clinics, many **Local Government Units (LGUs)**  offer free or heavily subsidized "kapon" programs. 
 
-# For free kapon, checkout the city or town veterinary office 
+# For free kapon, check out your city or town veterinary office 
 Here in Pasig, the Veterinary Services Department of Pasig City, not only provides free kapon but residents can also avail of free micro-chipping and anti-rabies vaccination for their pets. 
 
-<img src="{{'/assets/images/PasigCityVet.png'|relative_url}}" alt="Facebook Page of Veterinary Services Department of Pasig City">
+<img src="{{'/assets/images/PasigCityVet.png'|relative_url}}" alt="Facebook Page of Veterinary Services Department of Pasig City" 
+style="max-width: 300px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
 
 Follow their facebook to find out more, here's their facebook page: <a href="https://www.facebook.com/VetServicesPasig/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/VetServicesPasig/</a>
 
@@ -60,7 +61,7 @@ Here's a more detailed breakdown:
 > 
 > **Overweight:** additional fee based on weight exceeding 35kg for females and 20kg for males
 
-## Some clinis also offer low cost kapon ranging from 300 to 1000 pesos 
+## Some private veterinary clinics also offer low cost kapon ranging from 300 to 1000 pesos 
 
 <div class="info-box">
 !!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
