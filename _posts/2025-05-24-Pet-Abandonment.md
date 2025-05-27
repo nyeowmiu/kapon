@@ -46,3 +46,5 @@ However, recognizing the need for stronger penalties and broader coverage, **Rep
 If circumstances arise where keeping a pet becomes genuinely impossible, the responsible and humane course of action is never abandonment. Instead, explore options like rehoming through reputable animal welfare organizations, seeking help from family or friends, or responsibly surrendering the animal to a legitimate shelter that can find them a new, loving home.
 
 Let us honor the unconditional love our pets bestow upon us. Let us remember that while they may be just a part of our lives, to them, we are their whole life. **Choosing abandonment is choosing abuse, and in the Philippines, that choice carries the weight of a crime.** 
+
+Return to the [home page]({{ site.baseurl }}/).
