@@ -100,4 +100,4 @@ Responsible feeding helps maintain a cleaner environment, reduces nuisance for t
 
 Let's feed with wisdom, care, and a vision for a better tomorrow for all creatures great and small.
 
-Return to the [home page](/).
+Return to the [home page]({{ site.baseurl }}/).
