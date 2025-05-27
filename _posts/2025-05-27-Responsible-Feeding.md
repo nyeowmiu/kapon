@@ -108,3 +108,7 @@ It's about ensuring that your compassion truly makes a positive, lasting differe
 Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
 
 Return to the [home page]({{ site.baseurl }}/).
+
+<div class="info-box">
+Disclaimer: The material presented on this page is intended solely for informational purposes. Please do your own research before making any decisions.
+</div>
