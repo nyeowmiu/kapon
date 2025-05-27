@@ -10,9 +10,10 @@ Thinking about spaying or neutering your beloved pet but unsure where to start?
 
 Many pet parents share concerns about the cost or simply don't know where to avail of these vital services. The good news is, finding a trusted clinic in Metro Manila is easier than you think! 
 
-Beyond private veterinary clinics, many **Local Government Units (LGUs)**  offer free or heavily subsidized "kapon" programs. 
 
 # For free kapon, check out your city or town veterinary office 
+Many **Local Government Units (LGUs)**  offer free or heavily subsidized "kapon" programs. 
+
 Here in Pasig, the Veterinary Services Department of Pasig City, not only provides free kapon but residents can also avail of free micro-chipping and anti-rabies vaccination for their pets. 
 
 <img src="{{'/assets/images/PasigCityVet.png'|relative_url}}" alt="Facebook Page of Veterinary Services Department of Pasig City" 
@@ -67,10 +68,10 @@ Here's a more detailed breakdown:
 You might need to scour Facebook for this as some provide low cost kapon on a limited period. You can also check [Google Maps for the vet clinics near you](https://www.google.com/maps/search/vet+clinics+near+me)
 
 <div class="info-box">
-!!!Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
-<br>
+Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
+<p>
 Another friendly reminder: We're not associated with any of the clinics or organizations shared here. We encourage you to conduct your own research and due diligence before engaging with them.
-</div>
+</p></div>
 
 Next: [Benefits of Spaying and Neutering]({{ site.baseurl }}/kapon-benefits/)
 
