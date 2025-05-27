@@ -1,4 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
+baseurl: "/kapon"
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Try adding or modifying one of these if it's not there:
@@ -7,7 +9,7 @@ show_github_ribbon: false
 show_view_on_github: false
 github: [metadata_repo: false] # Sometimes this can influence it too
 
-baseurl: "/kapon"
+
 title: '#KaponHindiTapon'
 description: |
   bawat buhay ay mahalaga |
