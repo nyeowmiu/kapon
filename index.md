@@ -12,7 +12,7 @@ title: Kapon Hindi Tapon
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
     <p class="post-meta">
-      {{ post.date | date: "%B %d, %Y" }}
+      <!--{{ post.date | date: "%B %d, %Y" }}-->
     </p>
      {{ post.excerpt | markdownify }} 
     <a href="{{ post.url | relative_url }}">Read More &rarr;</a>
