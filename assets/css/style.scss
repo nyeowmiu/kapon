@@ -92,7 +92,23 @@ img {
         align-items: center; /* Center items when stacked */
     }
     .post-thumbnail {
+        flex: 0 0 350px; /* New: Wider for smartphones */
+        max-width: 350px; /* New: Max width for consistency on mobile */
+        height: 250px;   /* New: Adjust height proportionally for the new width */
         margin-bottom: 15px; /* Add space below image when stacked */
+
+        /* To center the block-level thumbnail if it's not full width of its container */
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* Optional: Even smaller for very small phones, or if you want them to fill the screen */
+@media (max-width: 480px) {
+    .post-thumbnail {
+        flex: 0 0 90%; /* Make it fill almost the entire width of the screen */
+        max-width: 90%;
+        height: 200px; /* Adjust height */
     }
 }
 
