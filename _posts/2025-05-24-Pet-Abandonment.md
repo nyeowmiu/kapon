@@ -2,6 +2,7 @@
 title: "Pet Abandonment is Animal Abuse, Animal Abuse is a Crime"
 date: 2025-05-24
 featured_image: /assets/images/Cats-Abandoned-in-Arezzo.png
+permalink: /pet-abandonment/ # The new desired URL
 categories: [abandonment] # Optional: For tagging posts
 tags: [pet abandonment, animal abuse, animal cruelty, RA 8485, RA 10631] # Optional: More specific keywords
 ---
