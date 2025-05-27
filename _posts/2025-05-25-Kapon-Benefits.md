@@ -4,9 +4,8 @@ date: 2025-05-25
 ---
 As responsible pet parents, we all want what's best for our beloved furry companions. One of the most impactful decisions you can make for their health, happiness, and for the wider community is to have them spayed or neutered, a procedure often referred to as "kapon" in the Philippines. Beyond preventing unwanted litters, this routine surgery offers a multitude of benefits that can lead to a longer, healthier, and more harmonious life for your pet.
 
-> "Kapon", which refers to spaying or neutering, offers several benefits for pets. 
 <div class="info-box">
-  **Important Note:** Spaying and neutering not only controls pet overpopulation but also significantly improves the health and temperament of your beloved companions. It's a responsible choice for a better life for them.
+"Kapon", which refers to spaying or neutering, offers several benefits for pets. 
 </div>
 
 Here are 7 compelling reasons to choose spaying or neutering for your cherished companion:
