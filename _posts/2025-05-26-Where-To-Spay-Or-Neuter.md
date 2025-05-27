@@ -24,7 +24,7 @@ Follow their facebook to find out more, here's their facebook page: <a href="htt
 -->
 
 # Private Clinics 
-The cost of spay and neuter procedures (kapon) in private veterinary clinics in Pasig can vary depending on factors like the animal's breed, size, and any additional complications. 
+The cost of spay and neuter procedures (kapon) in private veterinary clinics in Metro Manila can vary depending on factors like the animal's breed, size, and any additional complications. 
 
 Generally, as of 2025, expect to pay between P700 to P3,500 for a cat and P1,000 to P5,000 for a dog. 
 
@@ -73,7 +73,7 @@ Facebook:
 Typical Cost: 
 
 <div class="info-box">
-Note: Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
+!!!Disclaimer: Please note that the prices listed are averages and not official rates. Always confirm exact costs directly with the clinics.
 </div>
 
 
