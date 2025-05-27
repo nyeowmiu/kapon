@@ -5,7 +5,7 @@ title: Kapon Hindi Tapon
 
 <h1>Latest Posts</h1>
 
-#Displays a snippet of the post
+<!-- #Displays a snippet of the post-->
 {% for post in site.posts %}
   <div class="post-preview">
     <h2>
