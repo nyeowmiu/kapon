@@ -1,5 +1,5 @@
 ---
-title: "7 Benefits of Spaying or Neutering (Kapon) Your Pets"
+title: "7 Benefits of Spaying or Neutering Your Pets"
 date: 2025-05-25
 ---
 > "Kapon", which refers to spaying or neutering, offers several benefits for pets. 
