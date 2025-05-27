@@ -1,0 +1,93 @@
+/* Custom CSS for Cayman Theme */
+
+/* Header Background Color */
+.page-header {
+    background-color: #8B4513; /* Warm Brown for the header background */
+}
+
+/* Header Text (Site Title) Color */
+.page-header .project-name {
+    color: #FFA500; /* Orange for the site title */
+}
+
+/* Header Tagline (Site Description) Color */
+.page-header .project-tagline {
+    color: #F5DEB3; /* Lighter shade for description, for readability against brown */
+}
+
+/* Main Content Headings (H1, H2, H3, H4, H5, H6) */
+/* This affects headings within your blog posts and other content */
+h1, h2, h3, h4, h5, h6 {
+    color: #8B4513; /* Brown for all content headings */
+}
+
+/* Styles for the button-style class */
+.button-style {
+    display: inline-block; /* Allows padding and margin */
+    background-color: #007bff; /* A nice blue, choose your color! */
+    color: white; /* White text */
+    padding: 12px 25px; /* Top/bottom, Left/right padding */
+    text-decoration: none; /* Removes underline from link */
+    border-radius: 5px; /* Slightly rounded corners */
+    font-weight: bold; /* Make text bold */
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+    margin: 1.5em 0; /* Add vertical space */
+}
+
+.button-style:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Ensures all images are responsive within their containers */
+img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Removes extra space below images */
+    margin: 1.5em auto; /* Adds vertical space and centers images */
+}
+
+/* If you want the FIRST image in a post to be larger/more prominent */
+.post-content img:first-of-type {
+    margin-top: 0; /* Remove top margin if it's the very first element */
+}
+
+.post-preview {
+    display: flex; /* Use flexbox to arrange items */
+    align-items: flex-start; /* Align items to the top */
+    margin-bottom: 30px; /* Space between posts */
+    gap: 20px; /* Space between image and text */
+}
+
+.post-thumbnail {
+    flex: 0 0 150px; /* Don't grow, don't shrink, base width 150px */
+    max-width: 150px; /* Max width for consistency */
+    height: 100px; /* Fixed height for consistency */
+    overflow: hidden; /* Hide overflowing parts of the image */
+    border-radius: 5px; /* Slightly rounded corners for aesthetics */
+}
+
+.post-thumbnail img {
+    width: 100%; /* Make image fill its container */
+    height: 100%; /* Make image fill its container */
+    object-fit: cover; /* Crop image to fit container without distortion */
+    display: block; /* Remove extra space below image */
+}
+
+.post-content {
+    flex: 1; /* Allow content to take up remaining space */
+}
+
+.post-content h2 {
+    margin-top: 0; /* Remove default top margin from heading */
+}
+
+/* Optional: Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .post-preview {
+        flex-direction: column; /* Stack image and text vertically on small screens */
+        align-items: center; /* Center items when stacked */
+    }
+    .post-thumbnail {
+        margin-bottom: 15px; /* Add space below image when stacked */
+    }
+}
