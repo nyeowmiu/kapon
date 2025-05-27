@@ -63,9 +63,9 @@ img {
 }
 
 .post-thumbnail {
-    flex: 0 0 150px; /* Don't grow, don't shrink, base width 150px */
-    max-width: 150px; /* Max width for consistency */
-    height: 100px; /* Fixed height for consistency */
+    flex: 0 0 250px; /* Don't grow, don't shrink, base width 150px */
+    max-width: 250px; /* Max width for consistency */
+    height: 180px; /* Fixed height for consistency */
     overflow: hidden; /* Hide overflowing parts of the image */
     border-radius: 5px; /* Slightly rounded corners for aesthetics */
 }
