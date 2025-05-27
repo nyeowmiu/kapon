@@ -1,4 +1,5 @@
 ---
+layout: default # Or whatever layout your homepage uses
 title: Kapon Hindi Tapon
 ---
 
