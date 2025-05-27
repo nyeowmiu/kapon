@@ -2,6 +2,7 @@
 title: "How to Responsibly Feed the Stray Animals in Your Community"
 date: 2025-05-27
 featured_image: /assets/images/cat-stray-eating.jpg
+permalink: /responsible-feeding/ # The new desired URL
 categories: [stray animals] # Optional: For tagging posts
 tags: [responsible feeding of stray animals, responsible feeding of community cats, community cats] # Optional: More specific keywords
 ---
@@ -32,6 +33,12 @@ Don't just dump food on the ground. Use disposable plates or containers that you
 
 ## Monitor for Health Issues 
 While feeding, take a moment to observe the animals. Are they limping? Do they have visible wounds or skin conditions? Noticing these can alert you to animals in need of more extensive help.
+
+## Have them Spayed or Neutered 
+Along with monitoring their health, please have them spayed or neutered. Or inquire about Trap-Neuter-Vaccinate-Return (TNVR) for your area. 
+
+To learn more, please read: [Where to Spay or Neuter](/where-to/).
+
 
 ## Tailoring the Menu 
 What to Feed Your Feline Friends (and What to Avoid!)
