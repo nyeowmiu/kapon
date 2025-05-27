@@ -1,12 +1,17 @@
 ---
 title: "7 Benefits of Spaying or Neutering Your Pets"
 date: 2025-05-25
+featured_image: /assets/images/spay.jpg
+categories: [kapon] # Optional: For tagging posts
+tags: [kapon hindi tapon, kapon ang solusyon, tnr, tnvr, spay and neuter] # Optional: More specific keywords
 ---
 As responsible pet parents, we all want what's best for our beloved furry companions. One of the most impactful decisions you can make for their health, happiness, and for the wider community is to have them spayed or neutered, a procedure often referred to as "kapon" in the Philippines. Beyond preventing unwanted litters, this routine surgery offers a multitude of benefits that can lead to a longer, healthier, and more harmonious life for your pet.
 
 <div class="info-box">
 "Kapon", which refers to spaying or neutering, offers several benefits for pets. 
 </div>
+
+<img src="{{'/assets/images/spay.jpg'|relative_url}}" alt="A cat with e-collar after getting spayed">
 
 Here are 7 compelling reasons to choose spaying or neutering for your cherished companion:
 ### 1. A Longer, Healthier Life for Your Pet
