@@ -1,6 +1,11 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+# Try adding or modifying one of these if it's not there:
+show_downloads: false
+show_github_ribbon: false
+show_view_on_github: false
+github: [metadata_repo: false] # Sometimes this can influence it too
 
 title: Kapon Hindi Tapon
 description: Bawat buhay ay mahalaga 
